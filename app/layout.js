@@ -1,6 +1,9 @@
 export const metadata = {
   title: 'Video Chat App',
-  description: 'A video chat application.',
+  description: 'Made by Abhinav Sai',
+  icons: {
+    icon: '/video.ico',
+  },
 };
 
 export default function RootLayout({ children }) {
